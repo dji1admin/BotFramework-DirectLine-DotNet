@@ -1,4 +1,4 @@
-﻿namespace DirectLineSampleClient.Models
+﻿namespace damarcus jone pro bots.Models
 {
     public class DirectLineCardContent
     {
